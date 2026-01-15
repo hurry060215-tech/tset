@@ -1,1 +1,2 @@
-# tset
+# tset\
+print("hello world")
